@@ -12,7 +12,8 @@ The idea is to provide a basic setup on top of which we can add new components t
 
 ### Examples of dynamic emotion generation
 
-![Happy](https://user-images.githubusercontent.com/98690240/175029118-9029b245-ca9a-4f5b-9e6f-35234b2b51fe.png)
+<img src="https://user-images.githubusercontent.com/98690240/175029118-9029b245-ca9a-4f5b-9e6f-35234b2b51fe.png" width="448">
 
-![Sad](https://user-images.githubusercontent.com/98690240/175029135-dda14438-42ac-4860-84bb-93030bb8f1f8.png)
+
+<img src="https://user-images.githubusercontent.com/98690240/175029135-dda14438-42ac-4860-84bb-93030bb8f1f8.png" width="448">
 
