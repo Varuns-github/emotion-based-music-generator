@@ -1,0 +1,42 @@
+{
+  "name": "emotion-detenction-from-image",
+  "version": "1.0.0",
+  "description": "Capture Images directly from camera and upload to form",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.18.0",
+    "opencv.js": "1.2.1",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "5.0.1",
+    "url": "^0.11.0",
+    "process": "^0.11.10"
+  },
+  "devDependencies": {
+    "react-app-rewired": "^2.1.9"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-app-rewired --max_old_space_size=8192 build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
